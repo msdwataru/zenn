@@ -1,9 +1,11 @@
 ---
 title: "エンジニアからPdMになって半年で得た4つの気づき"
-emoji: "📘"
+emoji: "🥨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["PdM", "プロダクトマネージャー", "プロダクトマネージメント"]
 published: false
+publication_name: "geniee"
+
 ---
 ## はじめに
 GENIEE SFA/CRM部署でプロダクト企画をしている増田といいます。
